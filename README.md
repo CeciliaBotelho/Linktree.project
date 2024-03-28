@@ -1,6 +1,6 @@
 # Meu Linktree Personalizado 🌳
 
-Bem-vindo(a) ao repositório do meu Linktree personalizado! Este projeto é uma forma simples e elegante de compartilhar todos os seus links importantes em um único lugar. 🚀
+Bem-vindo(a) ao repositório do meu Linktree personalizado! Este projeto é uma forma simples e elegante de compartilhar todos os seus links importantes em um único lugar 🚀
 
 ## Tecnologias Utilizadas 💻
 

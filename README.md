@@ -47,6 +47,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 - Nome - Cecilia Botelho 
 - E-mail - cescbotelho@gmail.com
 ---
-
-Feito com ❤️ e ☕ por [SeuNome](https://github.com/seu-usuario).
-

@@ -38,10 +38,6 @@ Use o `script.js` para adicionar qualquer interatividade adicional que desejar.
 
 Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melhorar este Linktree, sinta-se livre para fazer um fork do projeto e enviar um pull request.
 
-## Licença 📜
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
 ## Entre em Contato 📬
 
 - Nome - Cecilia Botelho 
